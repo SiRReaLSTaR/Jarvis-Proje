@@ -1,0 +1,6 @@
+{
+  "name": "Akıllı Asistan",
+  "description": "Gemini destekli gelişmiş akıllı asistan ve sohbet robotu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
